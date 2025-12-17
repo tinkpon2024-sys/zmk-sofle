@@ -52,7 +52,7 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - $$mdi:backspace-reverse-outline$$
+  - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:volume-off$$
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-command$$
@@ -64,7 +64,7 @@ layers:
   - $$mdi:keyboard-space$$
   - {t: '`', s: '~'}
   - $$mdi:apple-keyboard-shift$$
-  - RETURN
+  - $$mdi:backspace-reverse-outline$$
   layer1:
   - F1
   - F2
