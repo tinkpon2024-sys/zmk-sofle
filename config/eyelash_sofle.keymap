@@ -47,18 +47,6 @@
             bindings = <&soft_off>;
             key-positions = <14 28 40>;
         };
-
-        Ctrlaltsup {
-            bindings = <&none>;
-            key-positions = <53 55 61>;
-            layers = <0>;
-        };
-
-        Altenter {
-            bindings = <&none>;
-            key-positions = <55 51>;
-            layers = <0>;
-        };
     };
 
     keymap {
