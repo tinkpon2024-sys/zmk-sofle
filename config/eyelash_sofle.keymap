@@ -51,11 +51,13 @@
         Ctrl+Alt+Sup {
             bindings = <&none>;
             key-positions = <53 55 61>;
+            layers = <0>;
         };
 
         Alt+Enter {
             bindings = <&none>;
             key-positions = <55 51>;
+            layers = <0>;
         };
     };
 
