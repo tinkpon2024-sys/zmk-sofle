@@ -330,5 +330,7 @@ combos:
   k: '&soft_off'
 - p: [53, 55, 61]
   k: {t: '$$mdi:minus-circle-outline$$', type: none}
+  l: [LAYER0]
 - p: [55, 51]
   k: {t: '$$mdi:minus-circle-outline$$', type: none}
+  l: [LAYER0]
