@@ -331,3 +331,6 @@ combos:
 - p: [53, 55, 61]
   k: {t: '$$mdi:minus-circle-outline$$', type: none}
   l: [LAYER0]
+- p: [55, 61]
+  k: {t: '$$mdi:minus-circle-outline$$', type: none}
+  l: [LAYER0]
