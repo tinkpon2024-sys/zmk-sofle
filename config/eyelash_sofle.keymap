@@ -53,12 +53,6 @@
             key-positions = <53 55 61>;
             layers = <0>;
         };
-
-        Altenter {
-            bindings = <&none>;
-            key-positions = <55 61>;
-            layers = <0>;
-        };
     };
 
     keymap {
